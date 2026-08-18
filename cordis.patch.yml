@@ -1,0 +1,7 @@
+- insert:
+    - id: soft-sidekick
+      name: dsh-soft-sidekick
+      # config:
+      #   memoryDir: '.'
+      #   personalitiesFile: 'sidekick_personalities.json'
+      #   defaultPersonality: 'tsundere'
